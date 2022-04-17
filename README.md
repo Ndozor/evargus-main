@@ -1,1 +1,1 @@
-#https://nedozor.github.io
+#https://ndozor.github.io
